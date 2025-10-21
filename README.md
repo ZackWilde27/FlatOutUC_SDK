@@ -63,7 +63,7 @@ Modding Ultimate Carnage is a bit more complicated, since you can't launch it th
 
 <br>
 
-First, get rid of xlive, either through [Xliveless](https://community.pcgamingwiki.com/files/file/576-xliveless/), the [Chloe Collection Mod](https://gaycoderprincess.github.io/project/chloe-collection), or using the Collector's Edition on steam, either of those will do
+First, get rid of xlive, either through [Xliveless](https://community.pcgamingwiki.com/files/file/576-xliveless/), the [Chloe Collection Mod](https://gaycoderprincess.github.io/project/chloe-collection), or using the Collector's Edition on steam, any of those will do
 
 <br>
 
