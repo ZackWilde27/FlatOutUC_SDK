@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yMVjJbajgEo=",
+  "success": true,
+  "projectFilePath": "D:\\C++\\FlatOutUC_SDK\\FlatOutUC_SDK\\FlatOutUC_SDK\\FlatOutUC_SDK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zackw\\.nuget\\packages\\reloaded.hooks.definitions\\1.15.0\\reloaded.hooks.definitions.1.15.0.nupkg.sha512",
+    "C:\\Users\\zackw\\.nuget\\packages\\reloaded.memory\\9.4.3\\reloaded.memory.9.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

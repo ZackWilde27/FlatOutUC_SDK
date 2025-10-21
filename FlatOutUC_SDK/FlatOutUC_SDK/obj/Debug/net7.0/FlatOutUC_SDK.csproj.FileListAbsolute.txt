@@ -1,0 +1,12 @@
+D:\reloadedmods\FlatOutUC_API\FlatOutUC_API\bin\Debug\net7.0\FlatOutUC_SDK.deps.json
+D:\reloadedmods\FlatOutUC_API\FlatOutUC_API\bin\Debug\net7.0\FlatOutUC_SDK.dll
+D:\reloadedmods\FlatOutUC_API\FlatOutUC_API\bin\Debug\net7.0\FlatOutUC_SDK.pdb
+D:\reloadedmods\FlatOutUC_API\FlatOutUC_API\obj\Debug\net7.0\FlatOutUC_SDK.csproj.AssemblyReference.cache
+D:\reloadedmods\FlatOutUC_API\FlatOutUC_API\obj\Debug\net7.0\FlatOutUC_SDK.GeneratedMSBuildEditorConfig.editorconfig
+D:\reloadedmods\FlatOutUC_API\FlatOutUC_API\obj\Debug\net7.0\FlatOutUC_SDK.AssemblyInfoInputs.cache
+D:\reloadedmods\FlatOutUC_API\FlatOutUC_API\obj\Debug\net7.0\FlatOutUC_SDK.AssemblyInfo.cs
+D:\reloadedmods\FlatOutUC_API\FlatOutUC_API\obj\Debug\net7.0\FlatOutUC_SDK.csproj.CoreCompileInputs.cache
+D:\reloadedmods\FlatOutUC_API\FlatOutUC_API\obj\Debug\net7.0\FlatOutUC_SDK.dll
+D:\reloadedmods\FlatOutUC_API\FlatOutUC_API\obj\Debug\net7.0\refint\FlatOutUC_SDK.dll
+D:\reloadedmods\FlatOutUC_API\FlatOutUC_API\obj\Debug\net7.0\FlatOutUC_SDK.pdb
+D:\reloadedmods\FlatOutUC_API\FlatOutUC_API\obj\Debug\net7.0\ref\FlatOutUC_SDK.dll
