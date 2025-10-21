@@ -54,3 +54,23 @@ Span<nint> players = Info.Race.GetAllPlayers();
 Player* player = Info.Race.GetPlayer(0);
 int numPlayers = Info.Race.GetNumPlayers();
 ```
+
+<br>
+
+### Using the mods
+
+Modding Ultimate Carnage is a bit more complicated, since you can't launch it through reloaded, and xlive will get in your way.
+
+<br>
+
+First, get rid of xlive, either through [Xliveless](https://community.pcgamingwiki.com/files/file/576-xliveless/), the [Chloe Collection Mod](https://gaycoderprincess.github.io/project/chloe-collection), or using the Collector's Edition on steam, either of those will do
+
+<br>
+
+Then, in reloaded add `fouc.exe` and add your mod(s)
+
+If you installed the Chloe Collection, you can launch it through reloaded just fine, though you will get a bunch of Fossilize warnings printed to the console, you can ignore those.
+
+Otherwise you'll have go to `Edit Application`, scroll down and click on `Advanced Tools & Options`, and then enable `Auto-Inject`
+
+From there you can now launch the game through steam and the mods will load when the game starts running
